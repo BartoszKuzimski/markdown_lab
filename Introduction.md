@@ -20,6 +20,7 @@ Find out more about Markdown at the [official website](https://darlingfireball.n
 |-|-|-|
 JOHN | 29 | Developer
 JANE | 22 | Designer
-
+##
+![Markdown Logo](https://www.fnordware.com/superpng/pnggrad16rgb.png)
 
 
